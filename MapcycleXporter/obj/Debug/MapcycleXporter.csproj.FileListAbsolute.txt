@@ -1,0 +1,11 @@
+E:\Projects\MapcycleExporter\MapcycleXporter\MapcycleXporter\bin\Debug\MapcycleXporter.exe.config
+E:\Projects\MapcycleExporter\MapcycleXporter\MapcycleXporter\bin\Debug\MapcycleXporter.exe
+E:\Projects\MapcycleExporter\MapcycleXporter\MapcycleXporter\bin\Debug\MapcycleXporter.pdb
+E:\Projects\MapcycleExporter\MapcycleXporter\MapcycleXporter\obj\Debug\MapcycleXporter.csprojAssemblyReference.cache
+E:\Projects\MapcycleExporter\MapcycleXporter\MapcycleXporter\obj\Debug\MapcycleXporter.MainForm.resources
+E:\Projects\MapcycleExporter\MapcycleXporter\MapcycleXporter\obj\Debug\MapcycleXporter.Properties.Resources.resources
+E:\Projects\MapcycleExporter\MapcycleXporter\MapcycleXporter\obj\Debug\MapcycleXporter.csproj.GenerateResource.cache
+E:\Projects\MapcycleExporter\MapcycleXporter\MapcycleXporter\obj\Debug\MapcycleXporter.csproj.CoreCompileInputs.cache
+E:\Projects\MapcycleExporter\MapcycleXporter\MapcycleXporter\obj\Debug\MapcycleXporter.exe
+E:\Projects\MapcycleExporter\MapcycleXporter\MapcycleXporter\obj\Debug\MapcycleXporter.pdb
+E:\Projects\MapcycleExporter\MapcycleXporter\MapcycleXporter\obj\Debug\MapcycleXporter.Form1.resources
